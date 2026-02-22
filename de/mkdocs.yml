@@ -1,0 +1,102 @@
+site_name: CLC Buch - Gemeinsam lernen, gemeinsam wachsen
+site_url: https://cogneon.github.io/clc-book/de/
+docs_dir: src
+site_dir: ../docs/de
+edit_uri: ''
+
+nav:
+    - Willkommen: index.md
+    - Einführende Beiträge: 
+       - Einführung: 01-Einfuehrung.md
+       - Stationen einer Lernreise: 02-Stationen-einer-Lernreise.md
+       - Die 20-jährige Lernreise von Karlheinz und Simon: 03-Die-20-jaehrige-Lernreise-von-Karlheinz-und-Simon.md
+       - Von BarCamps bis Walk & Talks - Ein Überblick über die CLC Aktivitäten: 04-Von-BarCamps-bis-Walk-Talks-Ein-Ueberblick-ueber-die-CLC-Aktivitaeten.md
+       - Making of – wie die Community arbeitet: 05-Making-of-wie-die-Community-arbeitet.md
+       - Zwischen Herzblut und Hashtags von lonelylearning zu CLCFour: 06-Zwischen-Herzblut-und-Hashtags-von-lonelylearning-zu-CLCFour.md
+       - Eine multiperspektivische Lernreise: 07-Eine-multiperspektivische-Lernreise.md
+       - Eine Verteidigung der Corporate Learning Community: 08-Eine-Verteidigung-der-Corporate-Learning-Community.md
+    - Erfahrungsberichte von Community-Mitgliedern:
+      - CLC - Dünger für mein Hirn: 09-CLC-Duenger-fuer-mein-Hirn.md
+      - Der 1. CLC Promptathon - Co-Creation als Schlüssel zur Innovation – ein Erfahrungsbericht: 10-Der-1-CLC-Promptathon-Co-Creation-als-Schluessel-zur-Innovation-ein-Erfahrungsbericht.md
+      - Lernen und wachsen in und mit der Community ein kurzer Liebesbrief: 11-Lernen-und-wachsen-in-und-mit-der-Community-ein-kurzer-Liebesbrief.md
+      - Christianlernt Community: 12-Christianlernt-Community.md
+      - Warum braucht es ein Barcamp, oder warum ist dieses Format so wichtig: 13-Warum-braucht-es-ein-Barcamp-oder-warum-ist-dieses-Format-so-wichtig.md
+      - Tik Tok trifft Tageszeitung – Generationen im Dialog: 14-Tik-Tok-trifft-Tageszeitung-Generationen-im-Dialog.md
+      - Wie mich ein Jahresziel (fast wider Willen) zu Erkenntnissen über Lernen, Motivation und Gemeinschaft führte: 15-Wie-mich-ein-Jahresziel-fast-wider-Willen-zu-Erkenntnissen-ueber-Lernen-Motivation-und-Gemeinschaft-fuehrte.md
+      - Promptathon – wie KI Upskilling in einem Teamformat gelingt: 16-Promptathon-wie-KI-Upskilling-in-einem-Teamformat-gelingt.md
+      - Hallo Welt: 17-Hallo-Welt.md
+      - Mitorganisation des Praxis-Barcamps in Berlin: 18-Mitorganisation-des-Praxis-Barcamps-in-Berlin.md
+      - Ode an die (Lern-)Community – oder wie die CLC mein „Personal Learning Network“ beeinflusst hat: 19-Ode-an-die-Lern-Community-oder-wie-die-CLC-mein-Personal-Learning-Network-beeinflusst-hat.md
+      - Von MOOCathons über TwitterChats bis zum AI Lab mit der krasseherde im Bällebad immer vorne dabei: 20-Von-MOOCathons-ueber-TwitterChats-bis-zum-AI-Lab-mit-der-krasseherde-im-Baellebad-immer-vorne-dabei.md
+      - Onboarding at it‘s best: 21-Onboarding-at-its-best.md
+      - Lernen im Orga-Team der CLC-Events: 22-Lernen-im-Orga-Team-der-CLC-Events.md
+      - CLC-Lernspirit „Social Learning - Von- und Miteinander Lernen“: 23-CLC-Lernspirit-Social-Learning-Von-und-Miteinander-Lernen.md
+      - Future Skills - Eine Lernreise zwischen Hype und Haltung: 24-Future-Skills-Eine-Lernreise-zwischen-Hype-und-Haltung.md
+      - Zumutung statt Zuckerguss. Ein Zwischenruf aus der Beobachterrolle der Corporate Learning Community: 25-Zumutung-statt-Zuckerguss-Ein-Zwischenruf-aus-der-Beobachterrolle-der-Corporate-Learning-Community.md
+      - Spuren im Herzen - Wie Menschen und ihre Projekte eine Community prägen: 26-Spuren-im-Herzen-Wie-Menschen-und-ihre-Projekte-eine-Community-praegen.md
+    - Aus den Regionen:
+      - CLCHH - Regionalgruppe Hamburg - Back on Track: 27-CLCHH-Regionalgruppe-Hamburg-Back-on-Track.md
+      - CLC069 - Protokoll einer Lernreise: 28-CLC069-Protokoll-einer-Lernreise.md
+      - CLC90 - die Geschichte der Corporate Learning Community Nürnberg: 29-CLC90-die-Geschichte-der-Corporate-Learning-Community-Nuernberg.md
+    - Themenorientierte Beiträge:
+      - Leadership Coaching Challenge: 30-Leadership-Coaching-Challenge.md
+      - Learning Communities erfolgreich aufbauen: 31-Learning-Communities-erfolgreich-aufbauen.md
+      - Peer Learning etablieren - Spannungsfelder als Gestaltungschance nutzen: 32-Peer-Learning-etablieren-Spannungsfelder-als-Gestaltungschance-nutzen.md
+      - Nicht noch ein Tool - Warum Rollen wichtiger sind als Formate: 33-Nicht-noch-ein-Tool-Warum-Rollen-wichtiger-sind-als-Formate.md
+      - Mehr als nur Technologie - Wie menschzentrierte KI Akzeptanz und Mehrwert schafft: 34-Mehr-als-nur-Technologie-Wie-menschzentrierte-KI-Akzeptanz-und-Mehrwert-schafft.md
+      - Ein Avatar bittet aufs Podium. KI-Moderation im Praxistest: 35-Ein-Avatar-bittet-aufs-Podium-KI-Moderation-im-Praxistest.md
+      - LEX – eine wunderbare magenta Corporate Learning Community aus 20.000 Lernenden: 36-LEX-eine-wunderbare-magenta-Corporate-Learning-Community-aus-20000-Lernenden.md
+      - Zauberformeln und Buzzwords im Corporate Learning: 37-Zauberformeln-und-Buzzwords-im-Corporate-Learning.md
+      - In eigener Sache - Neues Logo? Neues Logo: 38-In-eigener-Sache-Neues-Logo-Neues-Logo.md
+    - Download:
+      - PDF-Version: https://github.com/cogneon/lernos-change-management/blob/master/de/build/lernos-change-management-guide.pdf
+      - Word-Version: https://github.com/cogneon/lernos-change-management/blob/master/de/build/lernos-change-management-guide.docx
+      - HTML-Version: https://github.com/cogneon/lernos-change-management/blob/master/de/build/lernos-change-management-guide.html
+      - E-Book (epub): https://github.com/cogneon/lernos-change-management/blob/master/de/build/lernos-change-management-guide.epub
+      - Markdown (md): https://github.com/cogneon/lernos-change-management/blob/master/de/build/lernos-change-management-guide.md
+    - Links:
+      - lernos.org: https://lernos.org
+      - CONNECT Community: https://community.cogneon.de
+      - Peerfinder: https://web.peerfinder.app
+
+theme:
+    name: 'material'
+    custom_dir: src/overrides
+    palette:
+        primary: blue
+    language: de
+    icon:
+      logo: material/home
+      repo: fontawesome/brands/github
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/matomo.js
+
+repo_name: 'cogneon/lernos-change-management'
+repo_url: 'https://github.com/cogneon/lernos-change-management'
+
+extra:
+    social:
+        - icon: fontawesome/brands/mastodon
+          link: 'https://colearn.social/@lernos'
+        - icon: fontawesome/brands/linkedin
+          link: 'https://www.linkedin.com/showcase/lern-os'
+        - icon: fontawesome/brands/github
+          link: 'https://github.com/cogneon'
+    giscus: true
+    generator: false
+
+copyright: cogneon.de/impressum
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+plugins:
+  - search
