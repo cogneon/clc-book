@@ -68,34 +68,21 @@ theme:
       logo: material/home
       repo: fontawesome/brands/github
 
-extra_css:
-  - stylesheets/extra.css
-
-extra_javascript:
-  - javascripts/matomo.js
-
-repo_name: 'cogneon/lernos-change-management'
-repo_url: 'https://github.com/cogneon/lernos-change-management'
+repo_name: 'cogneon/clc-book'
+repo_url: 'https://github.com/cogneon/clc-book'
 
 extra:
     social:
         - icon: fontawesome/brands/mastodon
-          link: 'https://colearn.social/@lernos'
+          link: 'https://colearn.social/@cogneon'
         - icon: fontawesome/brands/linkedin
-          link: 'https://www.linkedin.com/showcase/lern-os'
+          link: 'https://www.linkedin.com/company/cogneon-gmbh/'
         - icon: fontawesome/brands/github
           link: 'https://github.com/cogneon'
     giscus: true
     generator: false
 
 copyright: cogneon.de/impressum
-
-markdown_extensions:
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
 
 plugins:
   - search

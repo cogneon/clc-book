@@ -34,7 +34,7 @@ Basierend auf: Gemeinsam lernen, gemeinsam wachsen – 15 Jahre Corporate Learni
 
 - [ ] Startseite erstellen (index.md), inkl. korrekte Angabe der Lizenz
 
-- [ ] Links einfügen
+- [ ] Links einfügen ([Linkverzeichnis]([CLC Buch 2026: Quellen, Links, Autor:innenverzeichnis &#8211; Corporate Learning Community](https://colearn.de/clc-buch-2026-quellen-links-autorinnenverzeichnis/)))
 
 - [ ] Disskussionssystem Gisqus einrichten
 
