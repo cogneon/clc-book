@@ -34,12 +34,12 @@ Basierend auf: Gemeinsam lernen, gemeinsam wachsen – 15 Jahre Corporate Learni
 
 - [ ] Startseite erstellen (index.md), inkl. korrekte Angabe der Lizenz
 
-- [ ] Links einfügen ([Linkverzeichnis]([CLC Buch 2026: Quellen, Links, Autor:innenverzeichnis &#8211; Corporate Learning Community](https://colearn.de/clc-buch-2026-quellen-links-autorinnenverzeichnis/)))
+- [ ] Links einfügen ([Linkverzeichnis]([CLC Buch 2026: Quellen, Links, Autor:innenverzeichnis &#8211; Corporate Learning Community](https://colearn.de/clc-buch-2026-quellen-links-autorinnenverzeichnis/))), in Text und zusätzlich am Ende des Beitrags?
 
-- [ ] Disskussionssystem Gisqus einrichten
+- [x] Disskussionssystem Gisqus einrichten
 
 - [ ] Logo für das PDF-Deckblatt erstellen (Logo QR-Code zu Page von Github Repo)
 
-- [ ] index.html mit Weiterleitung auf /de in root anlegen
+- [x] index.html mit Weiterleitung auf /de in root anlegen
 
 - [ ] Endkontrolle (Formatierungen, Links, Bilder etc.) in HTML und PDF
