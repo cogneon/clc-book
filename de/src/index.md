@@ -22,22 +22,24 @@ Basierend auf: Gemeinsam lernen, gemeinsam wachsen – 15 Jahre Corporate Learni
 
 - [x] Autorenboxen am Ende von Kapiteln entfernen
 
-- [ ] Links einfügen
-
 - [x] Kapitel um eine Überschriftsebene nach unten verschieben, damit die "Trennkapitel" noch eingefügt werden können
 
 - [x] Zwischenkapitel einfügen
 
 - [x] Bilder verkleinern (1600px Breite)
 
-- [ ] Endkontrolle (Formatierungen, Links, Bilder etc.) in HTML und PDF
-
 - [x] Markdown-Version erzeugen
-
-- [ ] Startseite erstellen (index.md), inkl. korrekte Angabe der Lizenz
 
 - [x] Github Repo einrichten
 
+- [ ] Startseite erstellen (index.md), inkl. korrekte Angabe der Lizenz
+
+- [ ] Links einfügen
+
 - [ ] Disskussionssystem Gisqus einrichten
 
-- [ ] Logo für die Startseite erstellen (Logo QR-Code zu Page von Github Repo)
+- [ ] Logo für das PDF-Deckblatt erstellen (Logo QR-Code zu Page von Github Repo)
+
+- [ ] index.html mit Weiterleitung auf /de in root anlegen
+
+- [ ] Endkontrolle (Formatierungen, Links, Bilder etc.) in HTML und PDF
